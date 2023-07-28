@@ -1,0 +1,14 @@
+0,2,1,0,play-No
+0,2,1,1,play-No
+1,2,1,0,play-Yes
+2,0,1,0,play-Yes
+2,1,0,0,play-Yes
+2,1,0,1,play-No
+1,1,0,1,play-Yes
+0,0,1,0,play-No
+0,0,0,0,play-Yes
+2,0,0,0,play-Yes
+0,0,0,1,play-Yes
+1,0,1,1,play-Yes
+1,2,0,0,play-Yes
+2,0,1,1,play-No
